@@ -1,1 +1,10 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Kevin. Nice to meet you" src="./assets/gh-readme-header.png" /></a></p>
+
+
+
+
+
+
+
+
+
+![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=XKevin333&show_icons=true&theme=radical)
